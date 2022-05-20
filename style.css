@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap');
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.header {
+    width: 100%;
+    text-align: left;
+    background-color: darkcyan;
+}
+.header h3 {
+    display: inline;
+}
+.header button {
+    float: right;
+    border: 1px solid white;
+}
+
+.mario_img {
+    width: 100%;
+}
+
+#start, #status {
+    font-size: 22px;
+    width: 100px;
+}
+
+#status {
+    width: 300px;
+}
+
+.modal-dialog {
+    width: 90%;
+}
+
+.modal-header button {
+    font-size: 40px;
+}
+
+.instruction_img {
+    width: 35%;
+}
+
+h4 {
+    margin: 0px;
+    background-color: darkslategray;
+    color: white;
+    padding: 5px;
+}
+
+video {
+    background: url("game_console.png");
+    background-position: center;
+    background-size: cover;
+    padding: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
